@@ -248,6 +248,8 @@ img {vertical-align: middle;}
 <br>
 ### 🙂A few things About Me🙂
 <br>
+<p>Click on the arrow buttons to navigate through the slideshow</p>
+<br>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -369,7 +371,7 @@ function showSlides(n) {
 </script>
 
 <script src="https://utteranc.es/client.js"
-        repo="AdityaSamavedam/adityaadityacsastudent"
+        repo="AdityaSamavedam/adityacsastudent"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"
