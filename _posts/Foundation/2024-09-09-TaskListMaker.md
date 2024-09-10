@@ -1,11 +1,12 @@
 ---
 layout: post
 toc: True
-title: HTML Hacks
-description: Playing with HTML
+title: Coop coding
+description: Working with a partner to create a schedule manager
 type: ccc
 permalink: /coop
 ---
+
 <style>
 body {
     font-family: Arial, sans-serif;
