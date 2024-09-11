@@ -1,8 +1,8 @@
 ---
 layout: base
 toc: True
-title: SASS Project
-description: Project utilizing SASS styles
+title: Index MD challenge
+description: challenge i had in index.md
 type: ccc
 permalink: /indexchallenges
 ---
