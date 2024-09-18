@@ -24,8 +24,14 @@ Students should have an understanding of Fundamentals of Programming from Python
 <br>
 
 | Week | Issues | Code,Code,Code | Collaboration |
-| 3 | |  |
+| -------- | -------- | -------- | -------- |
+| 3 | | [Unit 1 Intro](https://adityasamavedam.github.io/adityacsastudent/csa/unit1/intro)<br>[Unit 1 - Primitive Types](https://adityasamavedam.github.io/adityacsastudent/csa/unit1/primitives)<br>[Unit 1 - Reference](https://adityasamavedam.github.io/adityacsastudent/csa/unit1/reference)<br>[Unit 1 - Stack Heap](https://adityasamavedam.github.io/adityacsastudent/csa/unit1/stack_heap)<br>[Unit 1 - Lesson Examples](https://adityasamavedam.github.io/adityacsastudent/unit1lessonexamples)<br>[Unit 1 - Quiz](https://adityasamavedam.github.io/adityacsastudent/csa/units/quiz1) | [My Team Teach](https://adityasamavedam.github.io/adityacsastudent/csa/units/unit6teamteach) |
 | 4 |
 | 5 |
 | 6 |
 | 7 |
+
+## **Sprint3: Individual/Team Projects, N@tM**
+In this Sprint, students will continue to become familiar with Java development as they learn Web Development using the Spring Framework. Coding will focus on Restful APIs, receiving requests, working with data, and responding to requests. This will teach key Java concepts while using Java Spring framework elements such as a Rest Controller, Plain Old Java Objects (POJOs), Object Relational Model (ORM), and Java Persistent API (JPA).
+
+| Week | Issues | Code,Code,Code | Collaboration |
