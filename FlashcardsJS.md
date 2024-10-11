@@ -201,7 +201,7 @@ permalink: /flashcardstest
 <div class="flashcard-container">
     <div class="flashcard" onclick="flipCard(this)">
         <div class="front">
-            <p>Unit 8 Key Points</p>
+            <p>Unit 9 Key Points</p>
         </div>
         <div class="back">
             <p> - Inheritance Basics: Allows subclass to inherit properties and behaviors from superclass; promotes code reuse.
@@ -285,4 +285,12 @@ permalink: /flashcardstest
     function flipCard(card) {
     card.classList.toggle('flip');
 }
+</script>
+
+<script src="https://utteranc.es/client.js"
+        repo="AdityaSamavedam/adityacsastudent"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
 </script>
