@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Flashcards Test
+title: Flashcards for CB units
 description: Flashcards in HTML, CSS, & JS
 hide: true
 permalink: /flashcardstest
