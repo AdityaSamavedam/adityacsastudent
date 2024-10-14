@@ -25,13 +25,17 @@ permalink: /sprint2review
 | Beyond Perfunctory         |   1           |   0.93        |  We uniquely set up three stations to teach and after each round was done, people would rotate. I did 6.1, Nitin did 6.2, and Akhil and Srini did 6.3 and 6.4 together. This was more effective than speaking directly to the whole audience.           | 
 | Total                      |   5           |    4.52       |              |
 
-<script src="https://utteranc.es/client.js"
-        repo="AdityaSamavedam/adityacsastudent"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+### Memories from our team teach:
+- Initially, I felt that I was weak at teamwork but working with my group to create our lesson helped me improve my teamwork skills by a great extent, which is crucial in the long run
+- I had a lot of fun collaborating with my teammates and creating our Arrays lesson
+- Since we used our unique rotation teaching system, it got a little tiring when each of us had to teach thrice for 20 minutes each but each time, I was more prepared.
+### Memories from Unit 5 team teach:
+- We all felt that the lesson was too lengthy with too many popcorn hacks and too much work
+- But I highly appreciate their group for making it Minion-themed, which helped me understand classes better.
+- It definitely made the lesson much more fun and niteractive
+<br>
+<img src="./images/Minionpicture.png">
+<br>
 
 <div class="flashcard-container">
     <div class="flashcard" onclick="flipCard(this)">
