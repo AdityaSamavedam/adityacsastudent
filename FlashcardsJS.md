@@ -204,15 +204,15 @@ permalink: /flashcardstest
             <p>Unit 9 Key Points</p>
         </div>
         <div class="back">
-            <p> - Inheritance Basics: Allows subclass to inherit properties and behaviors from superclass; promotes code reuse.
-                - Superclass: Parent class; provides attributes and methods to subclasses.
-                - Subclass: Inherits from superclass; can extend or override methods, add new attributes.
-                - Method Overriding: Subclass modifies inherited methods from the superclass.
-                - Polymorphism: Subclass objects treated as superclass instances; dynamic method calls at runtime.
-                - super Keyword: Refers to superclass; used to access superclass constructor or overridden methods.
-                - Object Class: Root of Java class hierarchy; all classes inherit from it.
-                - Class Hierarchies: Multi-level inheritance creates complex class relationships.
-                - Overriding vs Overloading: Overriding changes method behavior in subclass; overloading uses same method name with different parameters.</p>
+            <p> - Inheritance Basics: Allows subclass to inherit properties and behaviors from superclass; promotes code reuse.<br>
+                - Superclass: Parent class; provides attributes and methods to subclasses.<br>
+                - Subclass: Inherits from superclass; can extend or override methods, add new attributes.<br>
+                - Method Overriding: Subclass modifies inherited methods from the superclass.<br>
+                - Polymorphism: Subclass objects treated as superclass instances; dynamic method calls at runtime.<br>
+                - super Keyword: Refers to superclass; used to access superclass constructor or overridden methods.<br>
+                - Object Class: Root of Java class hierarchy; all classes inherit from it.<br>
+                - Class Hierarchies: Multi-level inheritance creates complex class relationships.<br>
+                - Overriding vs Overloading: Overriding changes method behavior in subclass; overloading uses same method name with different parameters.<br></p>
         </div>
     </div>
 </div>
