@@ -9,12 +9,12 @@ permalink: /sprint2review
 | **Assignment**             | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
 | Pull Request (Integration) | 2             |   1.8        |    [Original Pull Request](https://github.com/nighthawkcoders/portfolio_2025/pull/93) and [Edited Pull Request](https://github.com/nighthawkcoders/portfolio_2025/pull/123)          |
-| Relevancy Checklist (Peer) | 2             |  (87.6/90)*2 =  1.947       |![Jason Guan Peer Review](https://github.com/user-attachments/assets/ad5f9c28-af3d-461e-907c-51198fd96612)|
+| Relevancy Checklist (Peer) | 2             |  (82.8/90)*2 =  1.84       | [Jason Guan Peer Review](https://github.com/AdityaSamavedam/adityacsastudent/issues/6#issuecomment-2400529341) |
 | Lesson (Group)             | 1             |     0.93      |![image](https://github.com/user-attachments/assets/0c10ecee-cc53-4804-8f82-0f0962db7eea)|
-| Homework, Popcorn Hacks    | 1 x 8         |0.9125+0.91+0.9463+0.93+0.9+0.92)= 5.5188/6 (still waiting for two groups to grade)|[Grading Spreadsheet](https://docs.google.com/spreadsheets/d/1sGQtZm9GI2Rze5F7Eh_P1CMNO8Fyag4bCtOT0ddARmc/edit?gid=0#gid=0)|
+| Homework, Popcorn Hacks    | 1 x 8         |0.9125+0.9+0.91+0.9463+0.93+0.9+0.92+0.91 = 7.3288/8 |[Grading Spreadsheet](https://docs.google.com/spreadsheets/d/1sGQtZm9GI2Rze5F7Eh_P1CMNO8Fyag4bCtOT0ddARmc/edit?gid=0#gid=0)|
 | Individual Contribution    | 1             |   0.9   |![My Lesson Commits](https://github.com/user-attachments/assets/65850c80-af5b-40a5-8a98-1ed2caaf75cf)|
 | Personal Notebooks / Blogs | 1             |     0.88      | [CSA Time table](https://adityasamavedam.github.io/adityacsastudent/timetable/) |
-| Total                      | 12            |           |              |
+| Total                      | 15            |     13.6788      |              |
 
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
