@@ -127,3 +127,11 @@ Now the method starts returning and the substrings(temp) are printed in reverse 
 - Prints temp = "WAT"
 4. Returning from Call 1:
 - Prints temp = "WATC"
+
+<script src="https://utteranc.es/client.js"
+        repo="AdityaSamavedam/adityacsastudent"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
