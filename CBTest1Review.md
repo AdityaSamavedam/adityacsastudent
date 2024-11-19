@@ -8,9 +8,14 @@ permalink: /2014apexam
 
 # 👇 2014 Collegeboard AP CSA Practice Exam Reflection and Corrections 👇
 
+![image](image-18.png)
+
 ## Reflection:
 I got a 23/40 in this exam and I think that the questions were definitely very difficult and needed a lot more thought. This made me realize that it's not a good idea to do these questions in my head because they always seem to trip people up. However, this is a learning opportunity because I get to know what the questions really look like in the AP exam and I can practice my approach to answering each of them.
-The topics that I most struggled on were arrays and recursive functions. After taking this practice exam, I now feel that it's very important to write down the steps on paper to have an idea of what is going on in the complex code instead of doing it mentally and making mistakes.
+
+![image](image-19.png)
+
+The topics that I most struggled on were inheritance and recursive functions. After taking this practice exam, I now feel that it's very important to write down the steps on paper to have an idea of what is going on in the complex code instead of doing it mentally and making mistakes.
 
 ### Q4
 ![image](https://github.com/user-attachments/assets/13f00ee6-b70e-4671-834a-e1f7ff82f896)
