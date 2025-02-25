@@ -42,7 +42,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v1
         with:
           name: github-pages  # Keep the artifact name consistent
           path: ./_site       # This should match the Jekyll output directory
