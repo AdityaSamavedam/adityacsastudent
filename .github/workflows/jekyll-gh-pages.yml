@@ -42,10 +42,10 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: github-pages  # Keep the artifact name consistent
-          path: ./_site       # This should match the Jekyll output directory
+          name: github-pages
+          path: ./_site
 
   # Deployment job
   deploy:
