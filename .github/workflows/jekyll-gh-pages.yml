@@ -45,7 +45,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: github-pages  # Keep the artifact name consistent
-          path: _site       # This should match the Jekyll output directory
+          path: /_site       # This should match the Jekyll output directory
 
   # Deployment job
   deploy:
