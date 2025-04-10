@@ -33,5 +33,5 @@ permalink: /cybersecuritypanels
 - Ransomware is when you encrypt a victim's files and demand money to give access again
 - China steals over $100B each year in intellectual property
 
-![Image](https://github.com/user-attachments/assets/91095700-7075-4573-8019-223206aaed43)
-![Image](https://github.com/user-attachments/assets/1bf70cc8-f1f9-43b2-9328-22c8b98bf2a7)
+![Image1](IMG_1308.jpg)
+![Image2](IMG_1309.jpg)
